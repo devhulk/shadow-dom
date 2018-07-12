@@ -1,0 +1,10 @@
+{
+  "apps": [
+      {
+          "name": "Web Server",
+          "script": "npm",
+          "args" : "run dev",
+          "autorestart": false
+      }
+  ]
+}
